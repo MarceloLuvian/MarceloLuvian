@@ -1,0 +1,117 @@
+<p align="center">
+  <img src="assets/banner.gif" alt="Marcelo Luvián — Programador multi-stack · backend, mobile y DevOps" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=22&duration=2800&pause=900&color=EB4400&background=0A0A0A00&center=true&vCenter=true&width=600&height=52&lines=.NET+%C2%B7+Laravel+%C2%B7+DevOps+%C2%B7+API+REST;Construyo+y+optimizo+procesos;Apasionado+por+la+tecnolog%C3%ADa%2C+siempre+creciendo" alt="Typing animation" />
+  </a>
+</p>
+
+---
+
+## Hola, soy Marcelo
+
+Soy programador y me apasiona la tecnología. Llevo años construyendo software de verdad: backend y APIs en **.NET** y **Laravel**, apps móviles, y todo el camino hasta el **DevOps** y el deploy.
+
+Me gusta construir y optimizar procesos — y cuando una herramienta me hace más rápido, la uso (sí, la IA entre ellas, como una más del kit). Aprendo en cada proyecto y comparto lo que voy descubriendo.
+
+---
+
+## Stack y herramientas
+
+**Backend & APIs**
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-EB4400?style=for-the-badge&logo=dotnet&logoColor=0A0A0A" alt=".NET" />
+  <img src="https://img.shields.io/badge/Laravel-EB4400?style=for-the-badge&logo=laravel&logoColor=0A0A0A" alt="Laravel" />
+  <img src="https://img.shields.io/badge/API_REST-EB4400?style=for-the-badge&logo=swagger&logoColor=0A0A0A" alt="API REST" />
+</p>
+
+**Mobile**
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-A78BFA?style=for-the-badge&logo=swift&logoColor=0A0A0A" alt="Swift" />
+  <img src="https://img.shields.io/badge/React_Native-A78BFA?style=for-the-badge&logo=react&logoColor=0A0A0A" alt="React Native" />
+</p>
+
+**Data**
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-F5B143?style=for-the-badge&logo=mysql&logoColor=0A0A0A" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-F5B143?style=for-the-badge&logo=postgresql&logoColor=0A0A0A" alt="PostgreSQL" />
+</p>
+
+**DevOps & Automatización**
+
+<p>
+  <img src="https://img.shields.io/badge/DevOps-3ED58E?style=for-the-badge&logo=githubactions&logoColor=0A0A0A" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Git-3ED58E?style=for-the-badge&logo=git&logoColor=0A0A0A" alt="Git" />
+  <img src="https://img.shields.io/badge/n8n-3ED58E?style=for-the-badge&logo=n8n&logoColor=0A0A0A" alt="n8n" />
+  <img src="https://img.shields.io/badge/MCP-3ED58E?style=for-the-badge&logoColor=0A0A0A" alt="MCP" />
+</p>
+
+**IA como herramienta**
+
+<p>
+  <img src="https://img.shields.io/badge/IA_%26_LLMs-64748B?style=for-the-badge&logo=openai&logoColor=F6EEDD" alt="IA & LLMs" />
+  <img src="https://img.shields.io/badge/Ollama-64748B?style=for-the-badge&logo=ollama&logoColor=F6EEDD" alt="Ollama" />
+</p>
+
+---
+
+## Estadísticas
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MarceloLuvian&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=EB4400&icon_color=3ED58E&text_color=F6EEDD&ring_color=A78BFA"
+    alt="GitHub Stats de Marcelo"
+    height="165"
+  />
+  &nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLuvian&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=EB4400&text_color=F6EEDD&langs_count=8"
+    alt="Lenguajes más usados"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=MarceloLuvian&hide_border=true&background=0A0A0A&ring=EB4400&fire=F5B143&currStreakLabel=F6EEDD&sideLabels=F6EEDD&currStreakNum=3ED58E&sideNums=A78BFA&dates=F6EEDD80"
+    alt="GitHub Streak"
+    height="155"
+  />
+</p>
+
+---
+
+## Comparto lo que aprendo
+
+Soy creador de **[@lomejordeia](https://instagram.com/lomejordeia)** — noticias tech, herramientas, avances de IA y mucho más, en formato directo y al grano. Si te late estar al día sin relleno, ahí nos vemos.
+
+En lo personal me encuentras como **[@marceloluvian](https://instagram.com/marceloluvian)**.
+
+<p align="center">
+  <a href="https://instagram.com/lomejordeia">
+    <img
+      src="https://img.shields.io/badge/%40lomejordeia-E84CA0?style=for-the-badge&logo=instagram&logoColor=F6EEDD"
+      alt="@lomejordeia en Instagram"
+    />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/marceloluvian">
+    <img
+      src="https://img.shields.io/badge/%40marceloluvian-A78BFA?style=for-the-badge&logo=instagram&logoColor=F6EEDD"
+      alt="@marceloluvian en Instagram"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>
+    <code>La tecnología es la herramienta, no el fin. Sigo construyendo y aprendiendo.</code>
+  </sub>
+</p>
