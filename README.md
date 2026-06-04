@@ -60,32 +60,6 @@ Me gusta construir y optimizar procesos — y cuando una herramienta me hace má
 
 ---
 
-## Estadísticas
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MarceloLuvian&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=EB4400&icon_color=3ED58E&text_color=F6EEDD&ring_color=A78BFA"
-    alt="GitHub Stats de Marcelo"
-    height="165"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLuvian&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=EB4400&text_color=F6EEDD&langs_count=8"
-    alt="Lenguajes más usados"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=MarceloLuvian&hide_border=true&background=0A0A0A&ring=EB4400&fire=F5B143&currStreakLabel=F6EEDD&sideLabels=F6EEDD&currStreakNum=3ED58E&sideNums=A78BFA&dates=F6EEDD80"
-    alt="GitHub Streak"
-    height="155"
-  />
-</p>
-
----
-
 ## Comparto lo que aprendo
 
 Soy creador de **[@lomejordeia](https://instagram.com/lomejordeia)** — noticias tech, herramientas, avances de IA y mucho más, en formato directo y al grano. Si te late estar al día sin relleno, ahí nos vemos.
