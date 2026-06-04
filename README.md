@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=22&duration=2800&pause=900&color=EB4400&background=0A0A0A00&center=true&vCenter=true&width=600&height=52&lines=.NET+%C2%B7+Laravel+%C2%B7+DevOps+%C2%B7+API+REST;Construyo+y+optimizo+procesos;Apasionado+por+la+tecnolog%C3%ADa%2C+siempre+creciendo" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=22&duration=2800&pause=900&color=EB4400&background=0A0A0A00&center=true&vCenter=true&width=760&height=52&lines=.NET+%C2%B7+Laravel+%C2%B7+DevOps+%C2%B7+API+REST;Construyo+y+optimizo+procesos;Apasionado+por+la+tecnolog%C3%ADa%2C+siempre+creciendo" alt="Typing animation" />
   </a>
 </p>
 
